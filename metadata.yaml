@@ -1,0 +1,38 @@
+_repo: Pieni-palvelustytto_61897
+_version: 0.0.1
+alternative_title: A little maid. Finnish
+contributor:
+  translator:
+    agent_name: Hahnsson, Theodolinda
+    aliases:
+    - Yrjo-Koskinen, Theodolinda Limon
+    - Hahnsson, Sofia Theodolinda
+    birthdate: 1838
+    deathdate: 1919
+    gutenberg_agent_id: '5391'
+    url: http://www.gutenberg.org/2009/agents/5391
+    wikipedia: http://fi.wikipedia.org/wiki/Theodolinda_Hahnsson
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    alias: Feuvre, Amy Le
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: ''
+gutenberg_issued: '2020-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61897'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Girls -- Conduct of life -- Juvenile fiction'
+- GITenberg
+title: Pieni palvelustyttö
+url: http://www.gutenberg.org/ebooks/61897
